@@ -3,7 +3,6 @@
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 ![DRG Version](https://img.shields.io/badge/DRG%20Version-1.38-yellow.svg?style=flat)
 ![DRG Season](https://img.shields.io/badge/DRG%20Season-4-blue.svg?style=flat)
-![Saves Edited](https://img.shields.io/badge/dynamic/json?label=Saves%20Edited&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2Fmrmarble.dev%2F687428ff-75a5-4b0f-a760-6556b55dbb64)
 
 Online save editor for deep rock galactic game. [Try it out!](https://phillihp-rockade.github.io/drg-editor/)
 
