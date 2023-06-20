@@ -26,7 +26,7 @@ exports[`HomeView > should render 1`] = `
         alt="season logo"
         className="w-32 mx-auto"
         height={32}
-        src="assets/season03.png"
+        src="assets/season04.png"
         width={128}
       />
     </div>
