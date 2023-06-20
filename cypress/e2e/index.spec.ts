@@ -4,7 +4,7 @@ describe('Basic', () => {
     cy.visit('/');
 
     cy.title().should('eq', 'DRG Editor');
-    cy.findByText('/phillipe-rockade/drg-editor')
+    cy.findByText('/phillihp-rockade/drg-editor')
       .should('exist')
       .and('be.visible');
   });

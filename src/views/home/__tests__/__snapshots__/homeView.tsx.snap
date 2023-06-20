@@ -82,7 +82,7 @@ exports[`HomeView > should render 1`] = `
       className="cursor-pointer justify-center rounded-md bg-slate-800 px-3 py-2 transition-all duration-300 hover:bg-slate-700"
     >
       <a
-        href="https://github.com/phillipe-rockade/drg-editor"
+        href="https://github.com/phillihp-rockade/drg-editor"
         rel="noreferrer"
         target="_blank"
       >
@@ -110,7 +110,7 @@ exports[`HomeView > should render 1`] = `
           <span
             className="my-auto text-xs"
           >
-            /phillipe-rockade/drg-editor
+            /phillihp-rockade/drg-editor
           </span>
         </div>
       </a>
