@@ -19,7 +19,7 @@ exports[`Layout > should render correctly 1`] = `
       className="cursor-pointer justify-center rounded-md bg-slate-800 px-3 py-2 transition-all duration-300 hover:bg-slate-700"
     >
       <a
-        href="https://github.com/MrMarble/drg-editor"
+        href="https://github.com/phillipe-rockade/drg-editor"
         rel="noreferrer"
         target="_blank"
       >
@@ -47,7 +47,7 @@ exports[`Layout > should render correctly 1`] = `
           <span
             className="my-auto text-xs"
           >
-            /MrMarble/drg-editor
+            /phillipe-rockade/drg-editor
           </span>
         </div>
       </a>
