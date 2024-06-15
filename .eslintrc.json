@@ -17,8 +17,6 @@
     "airbnb-typescript",
     "airbnb/hooks",
     "plugin:react/jsx-runtime",
-    "plugin:unicorn/all",
-    "plugin:react-prefer-function-component/recommended",
     "prettier"
   ],
   "parser": "@typescript-eslint/parser",
@@ -173,17 +171,7 @@
       {
         "html": "ignore"
       }
-    ],
-    "unicorn/filename-case": [
-      "error",
-      {
-        "cases": {
-          "camelCase": true,
-          "pascalCase": true
-        }
-      }
-    ],
-    "unicorn/no-nested-ternary": ["error"]
+    ]
   },
   "overrides": [
     {

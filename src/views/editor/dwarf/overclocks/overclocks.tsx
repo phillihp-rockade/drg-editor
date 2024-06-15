@@ -22,8 +22,8 @@ function Overclocks({ dwarf }: { dwarf: DWARFS }): ReactElement {
           ) && (
             <Overclock
               key={oc.ID}
-              owned={owned.includes(oc.ID)}
-              forged={forged.includes(oc.ID)}
+              isOwned={owned.includes(oc.ID)}
+              isForged={forged.includes(oc.ID)}
               onLock={onLock}
               onUnlock={onUnlock}
               onForge={onForge}

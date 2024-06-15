@@ -2,7 +2,7 @@
 
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 ![DRG Version](https://img.shields.io/badge/DRG%20Version-1.38-yellow.svg?style=flat)
-![DRG Season](https://img.shields.io/badge/DRG%20Season-4-blue.svg?style=flat)
+![DRG Season](https://img.shields.io/badge/DRG%20Season-5-blue.svg?style=flat)
 
 Online save editor for deep rock galactic game. [Try it out!](https://phillihp-rockade.github.io/drg-editor/)
 

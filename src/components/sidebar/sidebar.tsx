@@ -28,7 +28,7 @@ function SideBar({
               key={tab.name}
               icon={tab.icon}
               label={tab.name}
-              active={tab.name === activeTab}
+              isActive={tab.name === activeTab}
               onClick={onTabClick}
             />
           ))}

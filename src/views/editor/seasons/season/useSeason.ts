@@ -5,7 +5,7 @@ import { useEffect, useState } from 'react';
 import { SEASONS } from '../useSeasons';
 
 const XP_PER_LEVEL = 5000;
-const XP_OFFSET = 32;
+const XP_OFFSET = 153;
 
 interface Properties {
   season: keyof typeof SEASONS;

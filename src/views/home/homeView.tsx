@@ -13,7 +13,7 @@ export function HomeView(): ReactElement {
           height={47}
         />
         <img
-          src='assets/season04.png'
+          src='assets/season05.png'
           alt='season logo'
           className='mx-auto w-32'
           width={128}

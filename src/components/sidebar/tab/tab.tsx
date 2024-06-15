@@ -4,16 +4,16 @@ import type { ReactElement } from 'react';
 interface TabProperties {
   icon: string;
   label: string;
-  disabled?: boolean;
-  active?: boolean;
+  isDisabled?: boolean;
+  isActive?: boolean;
   onClick: (name: string) => void;
 }
 
 function Tab({
   label,
   icon,
-  disabled,
-  active,
+  isDisabled: disabled,
+  isActive: active,
   onClick
 }: TabProperties): ReactElement {
   return (
